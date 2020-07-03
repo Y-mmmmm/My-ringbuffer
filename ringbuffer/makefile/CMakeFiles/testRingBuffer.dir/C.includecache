@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/suda/桌面/MYringbuffer/ringbuffer.c
+ringbuffer.h
+/home/suda/桌面/MYringbuffer/ringbuffer.h
+
+/home/suda/桌面/MYringbuffer/ringbuffer.h
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+stdint.h
+-
+
+/home/suda/桌面/MYringbuffer/test.c
+ringbuffer.h
+/home/suda/桌面/MYringbuffer/ringbuffer.h
+

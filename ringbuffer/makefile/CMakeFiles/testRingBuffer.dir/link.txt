@@ -1,0 +1,1 @@
+/usr/bin/cc     CMakeFiles/testRingBuffer.dir/ringbuffer.c.o CMakeFiles/testRingBuffer.dir/test.c.o  -o testRingBuffer -rdynamic 

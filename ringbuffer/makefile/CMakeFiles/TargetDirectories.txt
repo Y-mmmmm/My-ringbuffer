@@ -1,0 +1,3 @@
+/home/suda/桌面/MYringbuffer/makefile/CMakeFiles/edit_cache.dir
+/home/suda/桌面/MYringbuffer/makefile/CMakeFiles/rebuild_cache.dir
+/home/suda/桌面/MYringbuffer/makefile/CMakeFiles/testRingBuffer.dir
