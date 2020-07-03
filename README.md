@@ -1,4 +1,4 @@
-# This a basic ringbuffer
+# This a basic ringbuffer FIFO
 
 ## Ringbuffer strcut
 ```c
