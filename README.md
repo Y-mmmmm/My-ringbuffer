@@ -1,4 +1,4 @@
-# This a basic ringbuffer FIFO
+# 环形缓冲区 参考自机智云
 
 ## Ringbuffer strcut
 ```c
