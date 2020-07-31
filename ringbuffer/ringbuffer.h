@@ -1,14 +1,14 @@
 #ifndef _RINGBUFFER_H_
 #define _RINGBUFFER_H_
 
-#ifdef __cplusplus
-extern "C" {
-#endif
-
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
 #include <stdint.h>
+
+#ifdef __cplusplus
+extern "C" {
+#endif
 
 #define _MIN(a,b)    ((a)<(b))?(a):(b)
 
